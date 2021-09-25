@@ -23,3 +23,4 @@ So do ket noi:
 -Chân IN4 Module L298 = 10
 -Chân ENA Module L298 = 5 // để điều chỉnh tốc độ
 -Chân ENB Module L298 = 11
+-Chân nút bấm = 2 // dùng để chuyển chế độ bluetooh hoặc tránh vật cản
